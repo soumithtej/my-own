@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#loading
+{
+  width:100%;
+  height:100%;
+  position:fixed;
+  z-index:99999;
+  background-color:grey
+   url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fxenia_wu%2Fcollections%2F608895-spinner&psig=AOvVaw2ZzPlEhGAkytyB0q8yjj3k&ust=1607252033916000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiXx8bWtu0CFQAAAAAdAAAAABAJ') ;
+}
+
+
+
